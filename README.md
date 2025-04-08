@@ -3,3 +3,5 @@
 Here's some text
 
 ## Here's a lvel 2 heading
+
+![Bruce Elgort](https://consulting.bruceelgort.com/images/bruce_elgort.jpg)
